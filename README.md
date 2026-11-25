@@ -4,7 +4,7 @@ Laboratorio de redes empresariales que integra **enrutamiento Dual-Stack (IPv4 e
 
 ## Arquitectura y Topología
 
-![Topología Lógica](Topologia/topologia.png)
+![Topología Lógica](Topologia/topologia_logica.png)
 
 ### Componentes principales
 * **Routers (`R1`, `R2`):**
